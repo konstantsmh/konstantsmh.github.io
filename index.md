@@ -20,6 +20,9 @@ link: https://konstantsmh.github.io/konstantsmh.github.io/
 ![plot](plot2.png)
 ![plot](plot3.png)
 
+![plot](entries.png)
+![plot](exits.png)
+
 There are approximately 6,500 riders
 that enter the Sutter Avenue station through each
 turnstile a week. There are two
