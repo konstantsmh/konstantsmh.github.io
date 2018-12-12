@@ -20,6 +20,12 @@ link: https://konstantsmh.github.io/konstantsmh.github.io/
 ![plot](plot2.png)
 ![plot](plot3.png)
 
+There are approximately 6,500 riders
+that enter the Sutter Avenue station through each
+turnstile a week. There are two
+turnstiles in the station, so there are
+approximately 13,000 weekly riders in total.
+
 ![MTA Map](MTA-Brownsville.png)
 
 The closure of the L train should not have
