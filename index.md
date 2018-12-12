@@ -26,7 +26,7 @@ The closure of the L train should not have
 any major effects on the residents of
 Brownsville. For service to any area in
 Manhattan that the L train reaches, residents
-can take a short walk to the A, C, J, M, Z, or 4
+can take a short walk to the A, C, J, M, Z, or 3
 trains, which all travel to Manhattan. For
 service to any area in Brooklyn, the L train
 still runs between Lorimer Street and Carnarsie
